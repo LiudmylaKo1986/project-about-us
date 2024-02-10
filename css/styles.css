@@ -72,10 +72,16 @@ body {
 }
 
 .container {
-    background-color: #fbfbfb;
+   background-color: #fbfbfb;
     border-radius: 24px;
     padding: 0; 
     max-width: 335px;
+}
+
+.about-us-card-container{
+   /* background-color: #fbfbfb;
+    border-radius: 24px;*/
+    margin-bottom: 22px;
 }
 
 .about-us-section {
@@ -97,7 +103,7 @@ body {
 .about-us-text-container {
     padding-left: 20px;
     padding-right: 20px;
-    margin-bottom: 22px;
+    /*margin-bottom: 22px;*/
 }
 
 .about-us-subtitle {
